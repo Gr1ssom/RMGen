@@ -1,14 +1,15 @@
 {
-  "name": "static-site",
+  "name": "RMGen",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generator for readme",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.1.0"
   }
 }
